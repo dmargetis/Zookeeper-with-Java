@@ -136,7 +136,7 @@ public class Zookeeper {
                 System.out.println("No habitat with that number.");
             else
                 System.out.println(animals[habitat]);
-        }while(true);
+        } while(true);
         System.out.println("See you later!");
     }
 }
